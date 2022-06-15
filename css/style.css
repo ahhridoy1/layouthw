@@ -1,0 +1,76 @@
+h1{
+	color: red;
+}
+h5{
+	color: green;
+}
+aside{
+	width: 40%;
+	padding: left: 5rem;
+	margin: left: 5rem;
+	float: right;
+	box-shadow: inset 5px 05;
+	color: #29627;
+}
+hgroup >h1, h2{
+	margin: o;
+}
+figure {
+border:thin #c0c0c0 solid;
+display:flex;
+flex-flow:column;
+padding:5px;
+max-width:220px;
+margin:auto
+}
+img{
+	max-width: 400px;
+	margin: auto;
+}
+figcaption{
+	background-color: #220px;
+	color: #fff;
+	font: italic smaller sans-serif;
+	padding: 3px;
+	text-align: center;
+}
+li{
+	list-style-type: circle;
+	li li {
+		list-style-type: square;
+	}
+
+
+}
+samp {font-weight: bold;
+
+}
+time {
+	font-weight: bold;
+}
+.header{
+	min-height: 100px;
+	background-color: green;
+}
+
+
+	.container{
+	border: 10px solid yellow;
+	overflow: hidden;
+}
+.contact{
+	float: left;
+	width: 65%;
+	min-height: 200px;
+	background-color: black;
+}
+.blog{
+	float: right;
+	width: 35%;
+	min-height: 200px;
+	background-color: red;
+}
+.footer{
+	min-height: 300px;
+	background-color: blue;
+}
